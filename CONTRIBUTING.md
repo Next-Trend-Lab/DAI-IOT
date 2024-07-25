@@ -1,13 +1,14 @@
-# Contributing to Nexttrend DAI<>IOT Integration Project
+# Nexttrend DAI<>IOT Integration Project
 
 ## Overview
-This repository is part of the Nexttrend project, focusing on the integration of Decentralized Artificial Intelligence (DAI) with Internet of Things (IoT) devices. We're investigating feasibility, challenges, and potential applications to enhance security, privacy, and autonomous decision-making in smart environments.
+This open-source repository is part of the Nexttrend project, focusing on the integration of Decentralized Artificial Intelligence (DAI) with Internet of Things (IoT) devices. We're investigating feasibility, challenges, and potential applications to enhance security, privacy, and autonomous decision-making in smart environments.
 
 ## Table of Contents
 - [Contributing](#contributing)
   - [Research Contributions](#research-contributions)
   - [Development Contributions](#development-contributions)
   - [Documentation Contributions](#documentation-contributions)
+- [Getting Started](#getting-started)
 - [Pull Request Process](#pull-request-process)
 - [Code of Conduct](#code-of-conduct)
 - [Resources](#resources)
@@ -15,7 +16,7 @@ This repository is part of the Nexttrend project, focusing on the integration of
 
 ## Contributing
 
-We welcome contributions from all team members. Here's how you can contribute:
+We welcome contributions from anyone interested in DAI-IoT integration, regardless of background or affiliation. Here's how you can contribute:
 
 ### Research Contributions
 
@@ -78,22 +79,32 @@ We welcome contributions from all team members. Here's how you can contribute:
 - Document key discussions and decisions made during project meetings
 - Maintain a decision log to track important project choices and their rationale
 
+## Getting Started
+
+1. Fork the repository
+2. Clone your forked repository to your local machine
+3. Set up the development environment following our [setup guide]
+4. Choose an open issue or propose a new feature/research area
+5. Create a new branch for your work
+6. Make your changes and commit them with clear, concise commit messages
+7. Push your changes to your fork
+8. Submit a pull request with a clear description of your changes
+
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
 2. Update the README.md with details of changes to the interface, including new environment variables, exposed ports, useful file locations and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
-4. You may merge the Pull Request once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+4. Your Pull Request will be reviewed by maintainers. Make any requested changes promptly.
+5. Once approved, your Pull Request will be merged by a maintainer.
 
 ## Code of Conduct
 
-- Treat all team members with respect and professionalism
-- Provide constructive feedback on contributions
-- Maintain confidentiality of project-related information
-- Adhere to ethical guidelines in AI and IoT research
+We are committed to providing a welcoming and inspiring community for all. Please refer to our [Code of Conduct] for details on our community expectations and reporting guidelines for unacceptable behavior.
 
 ## Resources
 
+- Project Documentation: [Link to documentation]
 - Research Database Access: [Link to research database]
 - Literature Review Template: [Link to template file]
 - Technical Specification Template: [Link to template file]
@@ -105,3 +116,6 @@ We welcome contributions from all team members. Here's how you can contribute:
 
 - All contributors will be acknowledged in project documentation and publications
 - Significant contributions may lead to co-authorship on research papers or reports
+- Check out our [Contributors] page to see all the amazing people who have contributed to this project
+
+We're excited to see your contributions to the DAI<>IOT Integration Project!
